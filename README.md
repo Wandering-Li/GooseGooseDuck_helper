@@ -18,7 +18,7 @@ Main functions:
 
 
 
-[Image](https://user-images.githubusercontent.com/86272490/209444254-ea210d94-2f07-45bc-baa7-bcfb99509cf3.png)
+(https://user-images.githubusercontent.com/86272490/209444254-ea210d94-2f07-45bc-baa7-bcfb99509cf3.png)
 
 
 
@@ -29,8 +29,7 @@ Each action turn, the timer will automatically reset and start counting.
 
 2. role mark & team mark
 
-
-[Image](https://user-images.githubusercontent.com/86272490/209444273-2be76a92-0333-4a66-9260-1fd825faa331.png)
+(https://user-images.githubusercontent.com/86272490/209444273-2be76a92-0333-4a66-9260-1fd825faa331.png)
 
 
 
