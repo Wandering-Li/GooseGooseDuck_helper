@@ -15,10 +15,8 @@ Main functions:
 1. Time record
 
 
+![209444254-ea210d94-2f07-45bc-baa7-bcfb99509cf3](https://user-images.githubusercontent.com/86272490/216742961-b0e4a0b3-7c6e-400d-9708-61e6f8effdbc.png)
 
-
-
-https://user-images.githubusercontent.com/86272490/209444254-ea210d94-2f07-45bc-baa7-bcfb99509cf3.png
 
 
 
@@ -29,8 +27,7 @@ Each action turn, the timer will automatically reset and start counting.
 
 2. role mark & team mark
 
-https://user-images.githubusercontent.com/86272490/209444273-2be76a92-0333-4a66-9260-1fd825faa331.png
-
+![209444273-2be76a92-0333-4a66-9260-1fd825faa331](https://user-images.githubusercontent.com/86272490/216743418-691b1be2-79d6-4358-a1c5-3112b3916319.png)
 
 
 
